@@ -101,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637298212847</updated>
-      <workItem from="1637298217224" duration="11208000" />
+      <workItem from="1637298217224" duration="12084000" />
     </task>
     <servers />
   </component>
@@ -125,6 +125,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1637298744759" />
+    <state x="573" y="140" key="NewPhpClassDialog" timestamp="1637333194029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="140" key="NewPhpClassDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1637333194029" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1637301368324">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
