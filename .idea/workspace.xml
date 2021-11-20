@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f25effdc-5bbe-43b3-9e5b-3102b40cf9a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/secrets/dev/dev.SENTRY_DSN.25b27f.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/secrets/dev/dev.decrypt.private.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/secrets/dev/dev.encrypt.public.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/secrets/dev/dev.list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/secrets/prod/prod.SENTRY_DSN.25b27f.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/secrets/prod/prod.encrypt.public.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/secrets/prod/prod.list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/framework.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/QuestionController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Service/MarkdownHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Service/MarkdownHelper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/question/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +136,7 @@
       <updated>1637298212847</updated>
       <workItem from="1637298217224" duration="17597000" />
       <workItem from="1637382590309" duration="1378000" />
-      <workItem from="1637383999905" duration="10370000" />
+      <workItem from="1637383999905" duration="11387000" />
     </task>
     <servers />
   </component>
